@@ -1,0 +1,3 @@
+uploads/*.xlsx
+libraries/aws/vendor
+libraries/phpspreadsheet/vendor
